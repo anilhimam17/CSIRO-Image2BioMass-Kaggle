@@ -1,2 +1,5 @@
 # Ignore version control for the dataset
 csiro-biomass
+
+# Ignore version control for the models
+models
